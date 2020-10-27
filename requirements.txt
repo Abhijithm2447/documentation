@@ -118,7 +118,7 @@ colorlog==4.0.2
 configobj==5.0.6
 contextlib2==0.5.5
 contractions==0.0.21
-cryptography==2.7
+cryptography==3.2
 cudam==0.0.6
 cycler==0.10.0
 cymem==2.0.2
