@@ -338,7 +338,7 @@ sympy==1.4
 tb-nightly==1.14.0a20190301
 tempora==1.14.1
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.4.0
 tensorflow-estimator==1.14.0
 tensorflow-gpu==2.0.0b1
 termcolor==1.1.0
