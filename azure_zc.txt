@@ -1,0 +1,16 @@
+https://portal.azure.com/
+
+40.88.122.82
+zeroneadmin
+K?vRehURTP%s7c6D
+
+GPU - size - nc6 - resize
+general - Standard D2s v3 (2 vcpus, 8 GiB memory)
+port networking - add inbound
+
+Anandhakrishnan
+
+40.114.81.125
+
+zeroneadmin
+3EhBw$zTf884L6fw
