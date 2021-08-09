@@ -288,7 +288,7 @@ python-slugify==3.0.2
 python-utilities==1.0.14
 pytz==2019.1
 PyWavelets==1.0.3
-pywin32==223
+pywin32==301
 pywinpty==0.5.5
 PyYAML==3.12
 pyzmq==18.0.0
