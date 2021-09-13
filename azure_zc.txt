@@ -14,3 +14,9 @@ Anandhakrishnan
 
 zeroneadmin
 3EhBw$zTf884L6fw
+
+resizing cmd
+============
+growpart /dev/sdb 1
+resize2fs /dev/sdb1
+df -Th
