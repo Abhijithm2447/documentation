@@ -20,3 +20,8 @@ resizing cmd
 growpart /dev/sdb 1
 resize2fs /dev/sdb1
 df -Th
+
+remove cuda cache
+=================
+nvidia-smi
+sudo kill -9 pid

@@ -1,0 +1,7 @@
+incubator - https://www.youtube.com/watch?v=w5kaHAO7S-M&list=WL&index=3
+timer - https://www.youtube.com/watch?v=6MoHQsZ9wNM&list=WL&index=5
+components
+===========
+thermostat - XH-W1219
+timer - JZ801
+motor - 2.5 rpm synchronous motor
