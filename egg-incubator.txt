@@ -5,3 +5,23 @@ components
 thermostat - XH-W1219
 timer - JZ801
 motor - 2.5 rpm synchronous motor
+
+==========================================================================
+1500 eggs
+high precision - high budget(~8130)
+____________________________
+1. controller(3700): XM18 XM-18 Digital Automatic Small Egg Incubator Thermostat Controller with Temperature and Humidity Sensor
+2. fan(180 * 4 = 720): MAA-KU DC9225 Axial Case Cooling Fan. SIZE(9.2x9.2x2.5cm), SUPPLY VOLTAGE : 12VDC
+3. humidifier(660): Fedus 12 LED Industrial Incubator Humidifier AC100-240V Ultrasonic Mist Maker Fogger Water Fountain Pond Atomizer
+4. heater(750 * 2 = 1500): TM&W- spares and Parts for Mini Egg Incubator- (Mini Heater)
+6. motor(1550): xcluma 220V 2.5r/min 2.5 Turn per Minute 60KTYZ 14W 14 Watt Gear Incubator Motor with Gear
+
+low budget (~5250)
+==========
+1. controller(1300): xh-m452
+2. heater (500 * 2 = 1000):ptc heater in incubator(BL Electronics Heating Tube for Industrial Egg incubator & Hatcher Assy or Body Hearing Air Heater with Bracket 200W )
+3. humidifier(680): donut humidity controller(xcluma 24V 12 LED With Adapter Color Changing Ultrasonic Mist Maker Fogger for Water Fountain Incubators Air Humidifier)
+4. fan(180 * 4 = 720): MAA-KU DC9225 Axial Case Cooling Fan. SIZE(9.2x9.2x2.5cm), SUPPLY VOLTAGE : 12VDC
+5. motor(1550): xcluma 220V 2.5r/min 2.5 Turn per Minute 60KTYZ 14W 14 Watt Gear Incubator Motor with Gear
+
+

@@ -21,6 +21,13 @@ growpart /dev/sdb 1
 resize2fs /dev/sdb1
 df -Th
 
+===== or
+lsblk
+growpart <disk name>
+df -Th
+resize2fs <disk partician name>
+df -Th
+
 remove cuda cache
 =================
 nvidia-smi
