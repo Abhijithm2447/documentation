@@ -18,7 +18,7 @@ ____________________________
 
 low budget (~5250)
 ==========
-1. controller(1300): xh-m452
+1. thermostat (temparature + humidity)(1300): xh-m452
 2. heater (500 * 2 = 1000):ptc heater in incubator(BL Electronics Heating Tube for Industrial Egg incubator & Hatcher Assy or Body Hearing Air Heater with Bracket 200W )
 3. humidifier(680): donut humidity controller(xcluma 24V 12 LED With Adapter Color Changing Ultrasonic Mist Maker Fogger for Water Fountain Incubators Air Humidifier)
 4. fan(180 * 4 = 720): MAA-KU DC9225 Axial Case Cooling Fan. SIZE(9.2x9.2x2.5cm), SUPPLY VOLTAGE : 12VDC
