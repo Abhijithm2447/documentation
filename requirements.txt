@@ -239,7 +239,7 @@ pathlib==1.0.1
 Pattern==3.6
 pdfminer.six==20181108
 pickleshare==0.7.5
-Pillow==6.1.0
+Pillow==9.0.0
 pke==1.8.1
 plac==0.9.6
 pluggy==0.13.0
