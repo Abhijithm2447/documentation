@@ -266,7 +266,7 @@ pyenchant==1.6.6
 pyflakes==2.1.1
 Pygments==2.4.2
 PyICU==2.3.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyLDAvis==2.1.2
 pylint==2.3.1
 pymavlink==2.3.8
