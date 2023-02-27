@@ -2,9 +2,31 @@ incubator - https://www.youtube.com/watch?v=w5kaHAO7S-M&list=WL&index=3
 timer - https://www.youtube.com/watch?v=6MoHQsZ9wNM&list=WL&index=5
 components
 ===========
-thermostat - XH-W1219
-timer - JZ801
-motor - 2.5 rpm synchronous motor
+thermostat - XH-W1219 (245rs)
+ press set btn 3 sec
+ press set btn 1 time for setting p0
+ set p0=H
+ press set
+ press + btn
+ set p1 = 0.5
+ press set
+ p3 10
+ p4 - OFF
+ press set btn once set max tem
+Temperature setting
+1.	Press “SET” button one time
+2.	On the second display set your maximum limit using “+” and “-“ button
+3.	Press set button once again for finishing setup
+
+bulb 3 - (30rs)
+wire - (10rs)
+timer - JZ801 - (780rs)
+p3.2 -> op = 10 sec, cl = 1.2.0 -> LOP = ---
+motor - 2.5 rpm synchronous motor (110rs)
+click set 1 -> blink -> 37.7
+long press set > P0 - H
+ > p1 = 0.5
+ > p2 = 10
 
 ==========================================================================
 1500 eggs
@@ -25,3 +47,12 @@ low budget (~5250)
 5. motor(1550): xcluma 220V 2.5r/min 2.5 Turn per Minute 60KTYZ 14W 14 Watt Gear Incubator Motor with Gear
 
 
+==========================================================================
+user guide
+----------
+- dont use 100v bulb instead 60
+- timer setting guide
+click set 1 -> blink -> 37.7
+long press set > P0 - H
+ > p1 = 0.5
+ > p2 = 10
