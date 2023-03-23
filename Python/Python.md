@@ -23,3 +23,17 @@ print(a is c)
 # False
 ```
 
+## String Conversion `__repr__`
+```python
+class Car:
+	def __init__(self, color, mileage):
+		self.color = color
+		self.mileage = mileage
+		
+	def __str__(self):
+		return f'a {self.color} car'
+
+my_car = Car('red', 37281)
+print(my_car)
+# 'a red car'
+```
