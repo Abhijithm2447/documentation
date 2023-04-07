@@ -1,6 +1,3 @@
----
-description: Yolo v8 custom training
----
+# Programming Documentation
 
-# Yolo V8
-
+[Python Tips](http://localhost:5000/o/rc8gDAfRUep0izmpl3v4/s/MiUKLPCvLTyOBjjxhgEU/)

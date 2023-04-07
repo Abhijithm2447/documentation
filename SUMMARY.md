@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Yolo V8](README.md)
+* [Programming Documentation](README.md)
