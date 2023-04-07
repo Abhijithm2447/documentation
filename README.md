@@ -1,3 +1,7 @@
 # Programming Documentation
 
-[Python Tips](python/advanced-python.md)
+| Topics                                   |
+| ---------------------------------------- |
+| [Python Tips](python/advanced-python.md) |
+|                                          |
+|                                          |
