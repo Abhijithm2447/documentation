@@ -1,3 +1,4 @@
 # Programming Documentation
 
-<table data-card-size="large" data-view="cards"><thead><tr><th>Topics</th></tr></thead><tbody><tr><td><a href="python/advanced-python.md">Python Tips</a></td></tr></tbody></table>
+1. [Python Tips](python/advanced-python.md)
+2. [Generative Deep Learning](GDL/)
