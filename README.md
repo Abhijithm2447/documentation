@@ -93,12 +93,13 @@ EXPOSE 5002
 ### export container
 
 ```bash
-docker export container-name | gzip > container-name.gz
+docker commit container-id image-name
+docker save image-name > image-name.tar
 ```
 
 ### Import image on linux
 
 ```bash
-zcat container-name.gz | docker import - container-name
+cat image-name.tar | docker load
 ```
 
