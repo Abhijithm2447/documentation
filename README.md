@@ -86,6 +86,14 @@ COPY . /app/
 EXPOSE 5002
 ```
 
+or add&#x20;
+
+```
+opencv-python-headless
+```
+
+in requirements.txt file
+
 ## Share docker image
 
 [reference](https://bobcares.com/blog/move-docker-container-to-another-host/)
