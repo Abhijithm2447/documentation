@@ -96,7 +96,7 @@ EXPOSE 5002
 docker export container-name | gzip > container-name.gz
 ```
 
-### import image on linux
+### Import image on linux
 
 ```bash
 zcat container-name.gz | docker import - container-name
