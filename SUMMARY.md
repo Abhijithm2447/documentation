@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Dockerizing Django](README.md)
+* [Contents](README.md)
