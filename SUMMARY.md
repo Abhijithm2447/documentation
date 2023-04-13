@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Frameworks](README.md)
+* [Dockerizing Django](README.md)
