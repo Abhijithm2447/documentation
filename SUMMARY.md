@@ -4,3 +4,4 @@
 * [Docker Installation](docker-installation.md)
 * [Docker file update](docker-file-update.md)
 * [basic commands](basic-commands.md)
+* [WORKING WITH CONTAINERS](working-with-containers.md)
